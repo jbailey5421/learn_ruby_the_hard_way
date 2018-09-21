@@ -13,3 +13,7 @@ puts "there will be #{cars_not_driven} empty cars today"
 puts " we can transport #{carpool_capacity} people today"
 puts "we have #{passengers} to carpool today"
 puts "we need to puts about #{average_passengers_per_car} in each car"
+
+#the error is on line 14 and with the variable "carpool_capacity"
+#it seems to be a spelling mistake. double check the decalred name at the top 
+#matches when you called it
